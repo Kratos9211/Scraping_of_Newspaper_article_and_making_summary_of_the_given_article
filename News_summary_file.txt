@@ -1,0 +1,24 @@
+Title:
+Translated(src=en, dest=en, text=Israel-Palestine Conflict Live Updates: Israel pounds Gaza with air strikes as death toll from Hamas’ ambush surpasses 1,000, pronunciation=None, extra_data="{'confiden...")
+
+Article Text:
+Translated(src=en, dest=en, text=Bank of Israel to sell up to $30 bln of forex to stabilise shekel
+
+The Bank of Israel said on Monday it will sell up to $30 billion of foreign currency in the open market, the central bank's first ever sale of foreign exchange, to maintain stability during the war with Palestinian militants in Gaza. The shekel fell 2.7% versus the dollar to 3.945 - its lowest since early 2016 - after the announcement.
+
+"We are in an unprecedented security situation, and our estimate was that the market could get to a situation of divergence without the announcement of our intervention," Golan Benita, head of the Bank of Israel's markets department, told a news conference.
+
+The shekel had already weakened by 10% so far in 2023 to a rate of 3.86 per dollar on political turmoil, and on the heels of what is expected to be a long war with Hamas in Gaza the shekel was set to depreciate sharply. Benita said that prior to the opening of trade, the exchange rate jumped to reach as much as 4.3 shekels per dollar overnight in Asia.
+
+"Therefore it was important for us before the opening of trade in the local market to increase the certainty in the market or decrease the uncertainty in the market, in order to moderate as much as possible incidents of overreactions ... and ensure the markets' regular activity," he said. Benita said there were no plans at this time to sell more than $30 billion of forex and that the high level of reserves allowed the central bank room to support the economy in times of emergency.
+
+"At the current juncture, the central bank's priority is only to ensure a normal functioning of markets," HSBC's Neil Churchill said. The central bank also said it would provide liquidity through swap mechanisms in the market of up to $15 billion.
+
+"The Bank of Israel will continue monitoring developments, tracking all the markets, and acting with the tools available to it as necessary," it said. Citi economists said in a report: "Despite our expectation of a weaker shekel in the medium term - softer tech equity flows, a more complex political background and more two-sided risks to monetary policy - we do not expect further sustained bouts of shekel weakness." (Reuters), pronunciation=None, extra_data="{'confiden...")
+
+Article Summary:
+Translated(src=en, dest=en, text=The shekel fell 2.7% versus the dollar to 3.945 - its lowest since early 2016 - after the announcement.
+Benita said that prior to the opening of trade, the exchange rate jumped to reach as much as 4.3 shekels per dollar overnight in Asia.
+"At the current juncture, the central bank's priority is only to ensure a normal functioning of markets," HSBC's Neil Churchill said.
+The central bank also said it would provide liquidity through swap mechanisms in the market of up to $15 billion.
+"The Bank of Israel will continue monitoring developments, tracking all the markets, and acting with the tools available to it as necessary," it said., pronunciation=None, extra_data="{'confiden...")
